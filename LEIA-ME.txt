@@ -1,0 +1,21 @@
+SITE — 36.541.024 Grasiela Ribeiro dos Santos
+
+Arquivos:
+- index.html: página principal
+- styles.css: identidade visual e responsividade
+- sobre.html: página institucional
+- privacidade.html: política de privacidade
+- termos.html: termos de uso
+- assets/: imagens fornecidas pelo usuário
+
+Como visualizar:
+1. Extraia a pasta/ZIP.
+2. Abra index.html no navegador. Para publicar, envie todos os arquivos mantendo a estrutura de pastas.
+3. O Bootstrap, Bootstrap Icons e Google Fonts são carregados por CDN, portanto exigem internet.
+
+Antes de publicar:
+- Confira endereço e UF: os dados enviados continham a expressão “Bahia Minas Gerais”; foi utilizado São João do Paraíso - MG, conforme repetido nos dados.
+- Confirme os direitos/licenças de uso das quatro imagens, especialmente para anúncios.
+- Revise Política de Privacidade e Termos para refletirem a prática real do site, especialmente se adicionar tags do Google Ads, Analytics, cookies, formulários ou venda online.
+- Os textos legais são um modelo informativo e não substituem revisão jurídica.
+- O site não inventa preços, estoque, promoções, prazos ou garantias de produtos.
